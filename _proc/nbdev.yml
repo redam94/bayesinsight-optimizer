@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bayesinsight-optimizer"
+  site-url: "https://redam94.github.io/bayesinsight-optimizer"
+  description: "Budget optimizer for bayesinsight models"
+  repo-branch: main
+  repo-url: "https://github.com/redam94/bayesinsight-optimizer"
